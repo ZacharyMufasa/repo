@@ -1,9 +1,12 @@
+-- CHECK constraints require MySQL 8.0.16 or newer.
 CREATE TABLE category(
 	category_id INT PRIMARY KEY NOT NULL,
 	name VARCHAR(50) UNIQUE NOT NULL,
 	daily_late_fee DECIMAL(6,2) NOT NULL,
 	max_loan_days INT NOT NULL,
-	requires_certification BOOLEAN NOT null
+	requires_certification BOOLEAN NOT null,
+	CONSTRAINT chk_category_daily_late_fee CHECK (daily_late_fee >= 0),
+	CONSTRAINT chk_category_max_loan_days CHECK (max_loan_days >= 1)
 );
 
 CREATE TABLE member(
@@ -31,7 +34,8 @@ CREATE TABLE tool(
 	purchase_date DATE NOT NULL,
 	purchase_price DECIMAL(8,2) NOT NULL,
 	tool_condition ENUM('good','fair','needs_repair','retired') NOT NULL,
-	FOREIGN KEY(category_id) REFERENCES category(category_id)
+	FOREIGN KEY(category_id) REFERENCES category(category_id),
+	CONSTRAINT chk_tool_purchase_price CHECK (purchase_price >= 0)
 );
 
 CREATE TABLE certification(
@@ -54,5 +58,8 @@ CREATE TABLE checkout(
     checkout_date DATE NOT NULL,
     due_date DATE NOT NULL,
     return_date DATE,
-    late_fee DECIMAL(8,2) DEFAULT 0.00
+    late_fee DECIMAL(8,2) NOT NULL DEFAULT 0.00,
+    CONSTRAINT chk_checkout_due_date CHECK (due_date >= checkout_date),
+    CONSTRAINT chk_checkout_return_date CHECK (return_date IS NULL OR return_date >= checkout_date),
+    CONSTRAINT chk_checkout_late_fee CHECK (late_fee >= 0)
 );
