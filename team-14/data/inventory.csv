@@ -1,0 +1,293 @@
+tool_id,name,brand,category,purchased,price,condition
+145,Pipe Wrench,Irwin,Hand Tools,2015-12-27,$57.84,GOOD
+147,Framing Hammer,Irwin,HAND TOOLS ,2016-03-01,43.49,GOOD
+149,Engine Hoist,Arcan,AUTOMOTIVE,11/29/2017,231.02,good
+150,Carpet Cleaner,Generac,cleaning,2020-01-20,$435.02,good
+152,Scaffold Set,Louisville,Ladders & Access,01/19/2021,$358.01,good
+153,Rotary Hammer,DeWalt,POWER TOOLS,2019-08-30,276.32,retired
+154,Pressure Washer,Karcher,CLEANING,2022-08-06,$200.54,good
+155,Scaffold Set,Little Giant,LADDERS & ACCESS,2023-05-29,$272.07,good
+156,PEX Crimper,Milwaukee,Plumbing ,12/14/2018,61.10,fair
+157,Miter Saw,Bosch,woodworking,2020-10-20,"$1,058.15",good
+159,Jack Stands,Pittsburgh,AUTOMOTIVE,2020-03-07,$311.72,good
+160,Multi-Position Ladder,Werner,LADDERS & ACCESS ,2015-06-06,$428.19,Fair
+162,Jack Stands,Autel,AUTOMOTIVE,2023-01-11,$46.56,good
+163,Pipe Threader,Milwaukee,Plumbing,2016-05-27,$378.04,good
+164,Plunge Router,SawStop,Woodworking,2018-05-03,947.85,FAIR
+165,Spirit Level,Craftsman,Hand Tools ,2019-07-10,$93.99,good
+167,Tiller,Stihl,yard & garden,2018-02-01,$562.64,good
+169,Step Ladder,Louisville,ladders & access,06/24/2019,328.33,good
+171,Floor Buffer,Karcher,cleaning,11/27/2023,449.38,good
+172,Torque Wrench,Pittsburgh,Automotive ,2016-02-11,239.49,FAIR
+173,Pipe Threader,Ridgid,Plumbing,06/24/2023,$244.82,good
+174,Rotary Hammer,Milwaukee,POWER TOOLS,2016-03-11,$311.97,Good
+176,Extension Ladder,Louisville,ladders & access,09/16/2016,$153.23,GOOD
+177,Framing Hammer,Irwin,Hand Tools,01/28/2022,45.09,Good
+179,Post Hole Digger,Honda,yard & garden,2019-07-21,639.17,good
+180,Leaf Blower,Honda,Yard & Garden,08/09/2020,$81.26,Good
+181,Framing Hammer,Irwin,Hand Tools ,2021-10-12,78.23,good
+183,Pry Bar,Irwin,Hand Tools,2018-04-12,85.73,good
+185,Post Hole Digger,Echo,yard & garden,10/06/2022,294.53,Good
+186,Floor Jack,Tekton,Automotive,2021-05-29,76.10,GOOD
+187,Pry Bar,Craftsman,Hand Tools,03/29/2016,75.70,good
+188,Step Ladder,Little Giant,Ladders & Access,10/18/2020,176.79,GOOD
+189,Engine Hoist,Arcan,Automotive,2015-10-03,367.68,fair
+191,Socket Set,Irwin,Hand Tools ,2018-08-08,$90.94,fair
+192,Extension Ladder,Louisville,Ladders & Access,03/17/2015,$411.25,Good
+194,Framing Hammer,Craftsman,HAND TOOLS,05/11/2015,59.45,Good
+195,Drain Snake,Ridgid,plumbing,2020-01-18,443.78,good
+197,Thickness Planer,Delta,Woodworking,2022-12-17,754.60,good
+199,Engine Hoist,Autel,Automotive,06/15/2020,315.60,good
+201,Drain Snake,Ridgid,Plumbing,03/11/2022,354.41,Good
+203,Lawn Mower,Honda,yard & garden,2016-01-23,187.60,good
+205,Circular Saw,Makita,Power Tools,2015-07-18,229.93,Needs Repair
+206,Miter Saw,Festool,Woodworking ,2015-04-26,$868.63,GOOD
+208,Miter Saw,Festool,Woodworking,2021-11-16,$985.07,needs_repair
+210,Lawn Mower,Greenworks,Yard & Garden,2023-06-11,290.45,GOOD
+211,Floor Buffer,Ridgid,CLEANING,2016-08-03,463.30,good
+212,Thickness Planer,Bosch,woodworking,2015-05-10,$871.77,good
+214,Extension Ladder,Louisville,Ladders & Access ,2021-10-26,$388.40,Good
+215,Scaffold Set,Little Giant,Ladders & Access ,2023-09-12,210.10,retired
+216,Thickness Planer,Bosch,Woodworking,02/04/2022,1111.06,Good
+218,Pressure Washer,Generac,Cleaning,09/19/2020,392.01,needs repair
+220,Band Saw,Delta,woodworking,02/22/2018,443.42,GOOD
+221,Pipe Threader,Milwaukee,Plumbing,10/28/2023,501.91,needs repair
+223,Miter Saw,Bosch,Woodworking,2023-06-07,896.10,fair
+225,Miter Saw,Delta,woodworking,11/10/2016,208.83,GOOD
+227,Tubing Cutter,Milwaukee,Plumbing,2023-05-26,$286.23,RETIRED
+228,Carpet Cleaner,Karcher,Cleaning ,2023-03-19,197.67,good
+230,Pry Bar,Irwin,Hand Tools,06/29/2016,56.47,Good
+231,Hedge Trimmer,Echo,yard & garden,2015-04-24,532.77,good
+232,Pipe Threader,Ridgid,Plumbing,05/14/2022,$483.30,Fair
+233,Pipe Wrench,Estwing,Hand Tools,2021-12-24,50.24,good
+234,Jack Stands,Autel,Automotive,04/12/2023,297.26,good
+235,Reciprocating Saw,DeWalt,Power Tools,09/03/2020,$303.77,good
+236,Clamp Set,Irwin,hand tools,2016-08-22,115.23,GOOD
+237,Thickness Planer,Festool,WOODWORKING ,2018-08-21,$1242.83,RETIRED
+239,Wheelbarrow,Stihl,yard & garden,2022-06-02,$251.55,good
+240,Tiller,Greenworks,Yard & Garden,2019-11-10,604.53,Retired
+242,OBD Scanner,Tekton,automotive,08/21/2015,273.31,fair
+243,Pipe Wrench,Estwing,Hand Tools,10/30/2023,52.35,good
+244,Pry Bar,Estwing,Hand Tools,2020-02-09,$79.28,Good
+245,Carpet Cleaner,Bissell,CLEANING,2020-12-11,320.26,retired
+246,Floor Jack,Pittsburgh,Automotive,2019-12-05,380.15,good
+248,Drain Snake,Sharkbite,plumbing,2017-08-21,$259.49,fair
+250,Tubing Cutter,Milwaukee,Plumbing,2023-10-01,449.17,Good
+251,Floor Jack,Arcan,automotive,2020-10-10,$206.50,good
+253,Socket Set,Stanley,Hand Tools,2021-03-23,51.39,good
+254,Carpet Cleaner,Generac,cleaning,02/06/2023,$116.42,Good
+255,Scaffold Set,Little Giant,Ladders & Access,2021-04-09,367.80,good
+256,Cordless Drill,Makita,power tools,2017-07-28,$214.35,GOOD
+257,Hedge Trimmer,Honda,YARD & GARDEN,2019-01-29,185.94,fair
+258,Multi-Position Ladder,Little Giant,LADDERS & ACCESS,2021-11-26,$294.57,good
+260,Jack Stands,Tekton,AUTOMOTIVE,02/20/2023,151.06,good
+262,Engine Hoist,Autel,automotive ,11/06/2016,$115.63,RETIRED
+263,OBD Scanner,Pittsburgh,Automotive,03/30/2022,$265.72,Good
+265,Angle Grinder,Ryobi,POWER TOOLS ,12/02/2018,$174.72,GOOD
+267,Rotary Hammer,Ryobi,Power Tools,01/25/2023,$173.41,good
+268,PEX Crimper,Milwaukee,PLUMBING ,2021-01-11,516.95,Needs Repair
+270,Drain Snake,Ridgid,plumbing,2019-08-18,$136.40,good
+272,Hedge Trimmer,Stihl,yard & garden,08/07/2022,155.08,good
+274,Jack Stands,Arcan,Automotive,03/31/2021,284.99,FAIR
+276,OBD Scanner,Tekton,Automotive,02/16/2023,309.03,good
+278,Pipe Threader,Milwaukee,Plumbing,2023-03-16,362.16,fair
+279,Lawn Mower,Stihl,yard & garden,2015-06-14,298.04,retired
+280,PEX Crimper,Ridgid,plumbing,11/10/2018,563.27,good
+281,Scaffold Set,Little Giant,LADDERS & ACCESS,2022-06-08,173.20,good
+282,Extension Ladder,Louisville,ladders & access,2020-08-28,135.83,fair
+284,Floor Buffer,Bissell,CLEANING,09/06/2017,449.99,good
+285,Band Saw,Bosch,Woodworking ,2015-01-02,"$1,394.64",Good
+286,Torque Wrench,Arcan,AUTOMOTIVE ,2022-05-27,$179.15,GOOD
+287,Extension Ladder,Louisville,ladders & access,2020-03-14,$387.01,GOOD
+289,Pipe Wrench,Estwing,Hand Tools ,2018-04-07,$57.74,fair
+290,Scaffold Set,Little Giant,Ladders & Access ,01/30/2018,361.93,good
+291,Reciprocating Saw,Milwaukee,POWER TOOLS,2016-12-09,182.69,FAIR
+293,PEX Crimper,Milwaukee,Plumbing,2017-02-06,384.68,Good
+295,Pry Bar,Estwing,Hand Tools ,2019-07-02,$43.29,good
+296,Carpet Cleaner,Generac,Cleaning,2015-10-15,425.01,GOOD
+298,Drain Snake,Milwaukee,PLUMBING ,2018-07-08,513.84,GOOD
+299,Post Hole Digger,Stihl,Yard & Garden,2022-08-07,313.59,fair
+301,Band Saw,SawStop,WOODWORKING ,2023-08-09,$1014.76,good
+303,Drain Snake,Milwaukee,plumbing,2016-05-01,110.84,needs repair
+305,Impact Driver,Milwaukee,POWER TOOLS,2016-12-14,$118.05,good
+307,Pipe Threader,Milwaukee,PLUMBING,2018-04-09,$72.36,NEEDS_REPAIR
+309,Pry Bar,Stanley,hand tools,2017-02-17,93.65,GOOD
+311,Engine Hoist,Autel,automotive,2018-10-06,$48.05,good
+313,Extension Ladder,Little Giant,ladders & access,04/20/2015,261.16,good
+314,Tiller,Stihl,yard & garden,2016-06-12,$329.06,good
+315,Post Hole Digger,Greenworks,Yard & Garden,10/12/2018,$561.94,Good
+317,Floor Buffer,Ridgid,cleaning,2021-04-28,482.71,Good
+318,Hedge Trimmer,Honda,yard & garden,2019-06-25,$400.81,Fair
+319,PEX Crimper,Ridgid,PLUMBING,2020-02-24,484.55,good
+321,Wheelbarrow,Echo,yard & garden ,2023-04-29,$111.33,Fair
+323,Torque Wrench,Tekton,automotive,05/04/2023,69.04,GOOD
+324,Drain Snake,Milwaukee,PLUMBING,2021-11-07,212.32,Good
+325,Angle Grinder,Ryobi,Power Tools ,2019-05-07,198.67,retired
+326,Plunge Router,Delta,woodworking,05/26/2017,$374.74,GOOD
+328,Carpet Cleaner,Ridgid,Cleaning,2017-10-06,462.28,GOOD
+330,PEX Crimper,Sharkbite,Plumbing,11/07/2021,$498.81,Good
+331,Jack Stands,Tekton,Automotive,2021-02-08,34.07,good
+333,Jigsaw,Ryobi,power tools,2018-05-05,273.34,Good
+334,Pressure Washer,Karcher,Cleaning,2016-09-02,418.03,good
+335,Circular Saw,Milwaukee,power tools,08/13/2020,$94.88,GOOD
+336,Engine Hoist,Arcan,Automotive,04/19/2019,343.28,FAIR
+337,Wheelbarrow,Honda,Yard & Garden,2017-05-30,144.99,good
+339,Carpet Cleaner,Karcher,Cleaning,2023-09-23,$312.97,GOOD
+341,Framing Hammer,Craftsman,Hand Tools,2015-08-09,69.36,Good
+342,Pressure Washer,Ridgid,Cleaning,2019-09-04,$497.87,GOOD
+343,OBD Scanner,Pittsburgh,automotive,01/27/2015,$232.59,GOOD
+344,Multi-Position Ladder,Little Giant,LADDERS & ACCESS ,05/01/2021,$306.04,good
+345,Reciprocating Saw,Makita,POWER TOOLS,2019-12-25,$127.98,GOOD
+346,Engine Hoist,Autel,AUTOMOTIVE,2021-12-03,372.31,good
+348,Floor Jack,Pittsburgh,Automotive,2015-10-14,343.29,Good
+350,Jack Stands,Pittsburgh,automotive,2017-11-06,355.71,GOOD
+351,Shop Vac,Bissell,Cleaning,2021-07-04,427.14,GOOD
+353,Engine Hoist,Pittsburgh,Automotive,2022-12-13,116.33,Needs_Repair
+355,Socket Set,Craftsman,HAND TOOLS,01/03/2023,$107.58,good
+356,Pipe Wrench,Estwing,HAND TOOLS ,2023-07-11,$43.45,NEEDS_REPAIR
+357,Pry Bar,Stanley,hand tools ,2021-09-11,50.52,GOOD
+358,Floor Buffer,Ridgid,Cleaning,2018-07-29,482.34,good
+360,Step Ladder,Little Giant,Ladders & Access,10/03/2020,$252.24,FAIR
+362,Impact Driver,Makita,Power Tools ,2021-03-19,69.45,Good
+364,Torque Wrench,Arcan,AUTOMOTIVE,06/07/2023,$282.19,good
+366,Post Hole Digger,Greenworks,YARD & GARDEN ,2016-07-17,$552.92,Good
+367,Spirit Level,Irwin,Hand Tools,2016-02-10,73.48,Fair
+368,Drain Snake,Milwaukee,Plumbing ,04/24/2020,$437.11,Good
+370,Shop Vac,Generac,CLEANING,2017-12-16,$120.43,Good
+371,Floor Buffer,Generac,cleaning,2023-10-08,299.53,good
+372,Cordless Drill,DeWalt,Power Tools,07/29/2015,232.39,retired
+373,Tiller,Echo,YARD & GARDEN,2023-07-12,$598.97,GOOD
+375,Pipe Wrench,Irwin,hand tools,2017-06-09,69.59,good
+377,Drain Snake,Ridgid,plumbing,05/08/2023,77.27,GOOD
+379,Reciprocating Saw,Makita,Power Tools,2022-04-20,63.13,good
+380,Pipe Wrench,Irwin,hand tools,06/14/2015,$66.43,good
+381,Floor Jack,Autel,Automotive,11/02/2017,$336.61,fair
+382,OBD Scanner,Arcan,Automotive,12/11/2015,$213.75,FAIR
+383,Pipe Threader,Milwaukee,Plumbing,2020-05-29,561.27,Needs Repair
+385,Engine Hoist,Pittsburgh,Automotive ,09/06/2017,280.90,Good
+386,Reciprocating Saw,Milwaukee,Power Tools,2017-01-13,221.71,GOOD
+387,Torque Wrench,Autel,AUTOMOTIVE,2019-04-03,252.99,GOOD
+388,Post Hole Digger,Honda,yard & garden,05/25/2020,170.93,good
+389,Miter Saw,SawStop,Woodworking,2020-07-14,981.06,GOOD
+390,Clamp Set,Craftsman,Hand Tools,2018-03-16,$34.67,Good
+392,Miter Saw,SawStop,WOODWORKING,02/21/2015,$242.59,NEEDS_REPAIR
+393,Torque Wrench,Arcan,AUTOMOTIVE,06/02/2017,$312.85,Retired
+394,Jigsaw,DeWalt,Power Tools,01/27/2015,$74.67,Good
+395,Floor Buffer,Ridgid,Cleaning,2023-10-31,172.64,good
+397,Band Saw,Festool,Woodworking,2021-01-01,$576.96,Good
+398,Post Hole Digger,Echo,YARD & GARDEN,2021-02-27,470.20,NEEDS REPAIR
+400,Jigsaw,Makita,Power Tools,2023-07-05,96.94,Good
+402,Clamp Set,Irwin,Hand Tools,2018-08-31,$74.55,good
+403,Step Ladder,Louisville,ladders & access,2022-04-03,265.29,good
+404,Torque Wrench,Autel,Automotive,2015-11-25,$311.53,good
+406,OBD Scanner,Tekton,Automotive,2022-11-09,$53.05,good
+407,Pipe Threader,Sharkbite,Plumbing,06/11/2020,$75.77,GOOD
+409,Drain Snake,Milwaukee,plumbing,2015-10-16,252.71,GOOD
+410,Post Hole Digger,Stihl,YARD & GARDEN,2020-01-23,557.88,Good
+412,Cordless Drill,Makita,Power Tools,2020-09-18,$257.06,good
+414,Carpet Cleaner,Bissell,Cleaning,2018-07-08,456.25,good
+415,Post Hole Digger,Greenworks,YARD & GARDEN,12/29/2020,$232.87,good
+417,Shop Vac,Bissell,CLEANING,04/18/2021,474.11,GOOD
+419,Rotary Hammer,Makita,Power Tools ,11/10/2022,$128.71,GOOD
+420,Tubing Cutter,Sharkbite,Plumbing,07/26/2019,519.25,good
+422,Scaffold Set,Werner,ladders & access ,2019-04-20,$94.40,retired
+424,Scaffold Set,Little Giant,ladders & access,2018-11-02,195.21,Good
+425,Band Saw,SawStop,woodworking,2015-08-31,725.98,good
+426,OBD Scanner,Arcan,Automotive,2018-01-16,385.71,needs repair
+427,Reciprocating Saw,Ryobi,Power Tools,2016-11-01,113.35,good
+428,Plunge Router,Festool,Woodworking,05/31/2017,$968.40,Good
+430,Miter Saw,Festool,Woodworking,03/15/2018,833.35,GOOD
+432,Post Hole Digger,Greenworks,Yard & Garden ,12/15/2022,$390.24,GOOD
+434,Step Ladder,Louisville,LADDERS & ACCESS,2023-09-05,$435.90,fair
+436,Miter Saw,Bosch,Woodworking,2017-02-06,187.56,Fair
+437,Carpet Cleaner,Generac,cleaning,11/01/2016,236.22,GOOD
+439,Extension Ladder,Werner,ladders & access ,2020-06-08,205.40,Good
+441,Engine Hoist,Tekton,Automotive,2016-05-28,$218.17,Good
+443,OBD Scanner,Pittsburgh,automotive,2020-12-24,$75.68,good
+444,Torque Wrench,Arcan,automotive,2022-08-27,$318.78,FAIR
+445,PEX Crimper,Sharkbite,PLUMBING,04/22/2017,$565.84,fair
+447,Miter Saw,Festool,woodworking,2021-03-13,151.49,Good
+448,Table Saw,Delta,Woodworking,01/18/2016,$153.45,Good
+449,Drain Snake,Ridgid,Plumbing,2016-08-05,$554.05,Fair
+450,Impact Driver,Makita,POWER TOOLS,2023-11-30,223.90,good
+452,Band Saw,Bosch,WOODWORKING,07/29/2019,$464.53,good
+453,Step Ladder,Little Giant,ladders & access,2023-06-08,175.34,good
+454,Table Saw,Delta,Woodworking,2021-04-14,$151.28,good
+456,Rotary Hammer,Makita,power tools ,2018-08-05,$229.44,Good
+458,Tubing Cutter,Ridgid,PLUMBING ,2019-05-21,$570.27,Good
+460,Shop Vac,Generac,Cleaning,2019-10-30,322.26,good
+462,Table Saw,Bosch,WOODWORKING ,09/10/2020,$338.41,needs_repair
+463,Floor Buffer,Ridgid,cleaning,2015-01-25,$111.15,GOOD
+465,Pressure Washer,Bissell,Cleaning,2023-12-27,$404.20,fair
+467,Impact Driver,Ryobi,Power Tools,2020-12-14,140.26,fair
+469,Rotary Hammer,Ryobi,power tools ,2021-07-31,318.18,fair
+470,Torque Wrench,Autel,automotive,2018-07-25,$160.54,good
+472,Reciprocating Saw,DeWalt,power tools,2020-11-08,$81.44,good
+473,Tubing Cutter,Ridgid,plumbing,2019-03-28,$322.59,good
+475,PEX Crimper,Ridgid,plumbing,2021-08-04,$361.13,good
+477,Shop Vac,Bissell,Cleaning,2023-01-29,$375.72,GOOD
+478,Shop Vac,Karcher,Cleaning,2018-03-14,$348.55,Fair
+479,Hedge Trimmer,Honda,yard & garden ,01/03/2021,$635.97,good
+480,Plunge Router,Bosch,WOODWORKING ,2022-10-30,$534.54,good
+482,Step Ladder,Little Giant,Ladders & Access,2018-11-10,199.75,NEEDS REPAIR
+483,Engine Hoist,Autel,Automotive,2015-12-09,$86.87,Good
+485,Multi-Position Ladder,Louisville,Ladders & Access,02/12/2017,384.47,GOOD
+486,Hedge Trimmer,Echo,yard & garden,2018-10-09,$600.12,GOOD
+487,Clamp Set,Stanley,Hand Tools,2015-09-27,$20.78,good
+488,Shop Vac,Karcher,cleaning,2017-05-19,441.00,GOOD
+489,Tubing Cutter,Milwaukee,PLUMBING,2017-05-21,$543.06,Good
+490,Drain Snake,Sharkbite,plumbing,2020-10-07,220.57,RETIRED
+491,OBD Scanner,Pittsburgh,automotive,2018-06-16,$330.29,needs_repair
+493,Table Saw,Delta,woodworking,2022-11-06,795.60,RETIRED
+494,Thickness Planer,SawStop,woodworking,2021-05-05,1285.87,Needs Repair
+495,Floor Jack,Autel,automotive ,2020-12-29,156.62,Fair
+496,Band Saw,Bosch,WOODWORKING,2023-01-11,368.45,good
+497,Socket Set,Irwin,Hand Tools,04/17/2019,$119.30,GOOD
+499,Pressure Washer,Generac,Cleaning,2019-03-30,$224.21,Good
+500,Pipe Threader,Milwaukee,plumbing,2018-11-10,411.55,good
+501,Floor Buffer,Ridgid,Cleaning,03/15/2021,$133.47,good
+502,Extension Ladder,Louisville,LADDERS & ACCESS,01/22/2016,279.63,good
+503,Jigsaw,DeWalt,power tools ,2019-09-06,$132.76,GOOD
+505,Pipe Wrench,Craftsman,hand tools,05/08/2020,56.45,Good
+506,Leaf Blower,Stihl,yard & garden ,2021-03-25,$583.31,GOOD
+508,Clamp Set,Craftsman,Hand Tools,04/20/2019,27.72,Fair
+509,Leaf Blower,Honda,YARD & GARDEN,2015-06-09,45.58,good
+510,Table Saw,Delta,woodworking,2020-11-04,$1195.05,fair
+511,Post Hole Digger,Echo,yard & garden,10/16/2020,558.65,FAIR
+512,Tubing Cutter,Ridgid,Plumbing,2015-11-10,258.44,good
+514,Carpet Cleaner,Karcher,Cleaning ,2015-01-12,$224.78,good
+515,Plunge Router,Delta,WOODWORKING,11/08/2018,1399.00,Needs Repair
+517,Band Saw,Delta,woodworking,04/11/2019,$985.79,good
+518,Impact Driver,DeWalt,Power Tools,2021-12-12,212.09,good
+520,Pipe Threader,Ridgid,PLUMBING,04/22/2021,319.05,retired
+522,Floor Buffer,Bissell,Cleaning,06/03/2021,133.07,Fair
+523,Table Saw,Festool,Woodworking ,2015-11-26,1101.01,Good
+525,Cordless Drill,Ryobi,POWER TOOLS,2023-04-07,$60.98,good
+526,Post Hole Digger,Stihl,yard & garden,01/16/2021,305.55,good
+527,Tiller,Stihl,Yard & Garden,2017-05-18,570.40,good
+528,Clamp Set,Craftsman,Hand Tools ,2020-09-22,$90.06,fair
+529,Carpet Cleaner,Ridgid,cleaning,2017-10-21,$435.79,FAIR
+531,Table Saw,Bosch,Woodworking,2016-11-08,689.02,good
+532,Miter Saw,Bosch,WOODWORKING,2016-01-25,1187.93,good
+534,Pressure Washer,Bissell,Cleaning,2016-06-21,$341.56,Good
+536,Thickness Planer,Festool,woodworking,2020-05-01,514.08,Good
+538,Miter Saw,SawStop,Woodworking,2022-03-10,$1186.63,Fair
+540,Leaf Blower,Greenworks,Yard & Garden,2023-03-03,$310.09,good
+541,Clamp Set,Estwing,HAND TOOLS,2019-03-14,$61.08,good
+543,Circular Saw,Milwaukee,Power Tools,2022-01-10,204.40,good
+544,Leaf Blower,Stihl,Yard & Garden,10/23/2017,147.06,good
+545,Angle Grinder,Ryobi,Power Tools,2022-07-21,$211.03,Good
+546,Extension Ladder,Werner,ladders & access,2022-05-17,$159.71,Retired
+547,Thickness Planer,SawStop,Woodworking,11/21/2022,$514.61,Retired
+548,Floor Jack,Autel,Automotive,2020-05-24,$253.74,needs_repair
+549,Tiller,Stihl,Yard & Garden,11/01/2022,$246.77,Fair
+550,Floor Jack,Arcan,Automotive,2015-07-30,$145.33,NEEDS REPAIR
+551,Leaf Blower,Honda,YARD & GARDEN ,2018-07-30,$297.87,GOOD
+553,Pipe Wrench,Estwing,HAND TOOLS ,2019-12-20,$36.49,good
+554,Plunge Router,SawStop,woodworking ,2017-12-28,1393.14,good
+555,Pressure Washer,Bissell,Cleaning,2019-08-27,$372.49,RETIRED
+556,Jack Stands,Pittsburgh,Automotive,2018-06-20,386.88,good
+558,Rotary Hammer,Ryobi,Power Tools ,2020-02-28,317.05,good
+560,Reciprocating Saw,Makita,POWER TOOLS,2018-03-28,$116.69,FAIR
+561,Drain Snake,Sharkbite,PLUMBING,2020-07-06,$533.49,Fair
+562,Engine Hoist,Tekton,Automotive,2021-02-05,$95.08,FAIR
